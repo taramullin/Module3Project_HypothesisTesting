@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# MacOS (caching for finder, ignore checkpoints)
+.DS_Store
